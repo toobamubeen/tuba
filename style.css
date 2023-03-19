@@ -1,0 +1,34 @@
+.contact {
+   list-style: circle;
+}
+.container {
+list-style:square ;
+}
+.abc {
+    list-style:lower-alpha;
+}
+.font{
+    list-style: none;
+}
+.url{
+    list-style-image: url(./download\ \(1\).jpg );
+    list-style:inside ;
+}
+.try1{
+    background-color: chocolate;
+}
+.try3{
+    background-color: chocolate;
+}
+.try:hover{
+    background-color: blue;
+}
+.try1:hover{
+    background-color: blue;
+}
+.try2:hover{
+    background-color: blue;
+}
+.try3:hover{
+    background-color: blue;
+}
